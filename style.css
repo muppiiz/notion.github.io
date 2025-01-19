@@ -81,13 +81,13 @@ body {
 
 #album-name {
   color: #54576f;
-  font-size: 17px;
+  font-size: 15px;
   font-weight: bold;
 }
 
 #track-name {
   color: #acaebd;
-  font-size: 13px;
+  font-size: 12px;
   margin: 2px 0 13px 0;
 }
 
