@@ -30,11 +30,11 @@ $(function () {
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
   const trackUrl = [
-    "muppiiz.github.io/notion.github.io/wabte.mp3",
-    "muppiiz.github.io/notion.github.io/partymonster.mp3",
-    "muppiiz.github.io/notion.github.io/Rain.mp3",
-    "muppiiz.github.io/notion.github.io/hellonme.mp3",
-    "muppiiz.github.io/notion.github.io/yougiveloveabadname.mp3"
+    "https://muppiiz.github.io/notion.github.io/wabte.mp3",
+    "https://muppiiz.github.io/notion.github.io/partymonster.mp3",
+    "https://muppiiz.github.io/notion.github.io/Rain.mp3",
+    "https://muppiiz.github.io/notion.github.io/hellonme.mp3",
+    "https://muppiiz.github.io/notion.github.io/yougiveloveabadname.mp3"
   ];
 
   let bgArtworkUrl,
