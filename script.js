@@ -22,11 +22,11 @@ $(function () {
     "You Give Love a Bad Name"
   ];
   const trackNames = [
-    "BTS - Map Of The Soul : 7",
-    "The Weeknd - Starboy",
-    "Sleep Token - Take Me Back To Eden",
+    "BTS",
+    "The Weeknd",
+    "Sleep Token",
     "Johnny Huynh",
-    "Bon Jovi - Slippery When Wet"
+    "Bon Jovi"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
   const trackUrl = [
