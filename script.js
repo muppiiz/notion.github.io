@@ -30,11 +30,11 @@ $(function () {
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
   const trackUrl = [
-    "https://singhimalaya.github.io/Codepen/assets/music/1.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/2.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/3.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/4.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/5.mp3"
+    "https://muppiiz.github.io/notion.github.io/wabte.mp3",
+    "https://muppiiz.github.io/notion.github.io/partymonster.mp3",
+    "https://muppiiz.github.io/notion.github.io/Rain.mp3",
+    "https://muppiiz.github.io/notion.github.io/hellonme.mp3",
+    "https://muppiiz.github.io/notion.github.io/yougiveloveabadname.mp3"
   ];
 
   let bgArtworkUrl,
